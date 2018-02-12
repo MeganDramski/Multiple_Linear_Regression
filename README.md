@@ -2,7 +2,7 @@
 
  Business challenge
 
-The dataset contains information collected from 50 companies. I analyze data and create a model that will tell witch type of company is the most profitable. The data is anonymized and it contains 5 columns: 
+The dataset contains information collected from 50 companies. I analyze data and create a model that will tell which type of company is the most profitable. The data is anonymized and it contains 5 columns: 
 "	R&D Spend 
 "	Administration 
 "	Marketing Spend 
